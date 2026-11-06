@@ -1,0 +1,9 @@
+YOUR LOGO GOES HERE
+
+1) Put your own logo image in this folder.
+2) Name the file exactly: logo.png
+3) The website header will detect and display it automatically.
+4) Recommended: transparent PNG, landscape or square, with a clear version for a dark background.
+5) If your file is JPG or WebP, either export it as PNG or update the logo.png path in every HTML page.
+
+No logo artwork is included because the studio will provide its own logo.
